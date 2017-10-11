@@ -12,7 +12,7 @@ html {
 .cards {
   margin: 0;
   padding: 0;
-  list-styling-type: none;
+  list-style-type: none;
   text-align: center;
 }
 
@@ -61,10 +61,10 @@ html {
 .cards a {
   display: inline-block;
   padding: .5em .75em;
-  background color: #ccc;
+  background-color: #ccc;
   border-radius: 4px;
   color: #000;
-  ext-decoration: none;
+  text-decoration: none;
 }
 
 .cards a:hover {
